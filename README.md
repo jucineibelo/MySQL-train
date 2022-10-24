@@ -1,0 +1,2 @@
+Praticando MySQL Workbench
+
